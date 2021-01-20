@@ -4,7 +4,11 @@ _site
 .jekyll-metadata
 .bundle
 .sass-cache
+.jekyll-cache
 Gemfile
 Gemfile.lock
 node_modules
 package.json
+.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/b8/d17e9fd5a6bc5ec803d6412b73272092f7419e2f5b6d07acac6f5b029aeb7d
+.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/b8/d17e9fd5a6bc5ec803d6412b73272092f7419e2f5b6d07acac6f5b029aeb7d
+.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/52/316d4d7ec71b43b0acfd9cf44cc760332c30ac2d9174a59a3d5ac29182134f
