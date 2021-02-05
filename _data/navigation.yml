@@ -1,0 +1,6 @@
+- name: 개발
+  link: /dev/
+- name: 기타
+  link: /etc/
+- name: About
+  link: /about/
